@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_action_home"
+        android:icon="@mipmap/ic_action_home"
+        android:title="@string/txtHome" />
+    <item
+        android:id="@+id/menu_action_nav"
+        android:icon="@mipmap/ic_action_notif"
+        android:title="@string/notification" />
+    <item
+        android:id="@+id/menu_action_acc"
+        android:icon="@mipmap/ic_action_acc"
+        android:title="@string/txtaccount" />
+</menu>

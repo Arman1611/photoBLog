@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">photoBLog</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="photo_blog">Photo Blog</string>
+    <string name="welcome">Welcome To</string>
+    <string name="email_text">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login To Account</string>
+    <string name="login_reg_btn">Need a new Account?</string>
+    <string name="txtAccountSetting">Account Setting</string>
+    <string name="search">Search</string>
+    <string name="Logout">Logout</string>
+    <string name="conPass">Confirm Password</string>
+    <string name="createAccount">Create a New Account</string>
+    <string name="AlreadyHaveAcc">Already Have an Account?</string>
+    <string name="txtUSer">Enter Your Username</string>
+    <string name="txtAccSet">Save Account Setting</string>
+    <string name="post">Post</string>
+    <string name="account">Account</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="txtHome">Home</string>
+    <string name="txtaccount">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
